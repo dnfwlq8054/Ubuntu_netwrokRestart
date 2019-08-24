@@ -6,3 +6,5 @@
 
 
 ```$ git clone https://github.com/dnfwlq8054/Ubuntu_netwrokRestart.git```
+
+``` This is a normal paragraph: This is a code block. end code block. ```
