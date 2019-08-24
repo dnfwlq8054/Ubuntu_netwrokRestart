@@ -13,7 +13,9 @@
 `$ gcc ubuntu_netReset.c`
 
 `$ sudo ./a.out`
+
 or
+
 `$ sudo ./a.out &`
 
 감사합니다.
