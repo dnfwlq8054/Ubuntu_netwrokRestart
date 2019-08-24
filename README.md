@@ -2,7 +2,7 @@
 
 ## 안녕하세요.
 
-우분투에서 네트워크를 재시작 해주는 프로그램 입니다.
+우분투에서 60초마다 네트워크 상태를 체크해서, 연결이 끊겨 있으면 네트워크를 재시작 해주는 프로그램 입니다.
 
 다운로드 방법은 아래와 같습니다.
 
@@ -42,7 +42,7 @@ or
 
 ## Hi.
 
-This program speeds up the network on Ubuntu.
+Ubuntu checks the network status every 60 seconds and restarts the network if disconnected.
 
 There is a download method.
 
