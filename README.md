@@ -25,3 +25,31 @@ or
 
 감사합니다.
 
+
+
+Hi.
+
+This program speeds up the network on Ubuntu.
+
+There is a download method.
+
+
+`$ git clone https://github.com/dnfwlq8054/Ubuntu_netwrokRestart.git`
+
+
+
+After downloading, compile and run.
+
+
+`$ gcc ubuntu_netReset.c`
+
+` `
+
+`$ sudo ./a.out`
+
+or
+
+`$ sudo ./a.out &`
+
+Thank you!!
+
