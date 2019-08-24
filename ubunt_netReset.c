@@ -41,8 +41,7 @@ int main(){
                 perror("popen error!!");
                 return -1;
             }
-        }else
-            printf("good network!!\n");
+        }
         sleep(60);
         memset(ip_addr, 0, 100);
         ip_addr[0] = 'x';
