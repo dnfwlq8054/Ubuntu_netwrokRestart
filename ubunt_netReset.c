@@ -43,7 +43,7 @@ int main(){
             }
         }else
             printf("good network!!\n");
-        sleep(3);
+        sleep(60);
         memset(ip_addr, 0, 100);
         ip_addr[0] = 'x';
         pclose(fp);
