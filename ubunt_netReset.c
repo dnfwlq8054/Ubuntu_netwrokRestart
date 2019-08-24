@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #include <unistd.h>
 
 #define BUFF_SIZE 1024
@@ -37,10 +38,7 @@ int main(){
 
         if(ip_addr[0] == 'x'){
             printf("network restart....\n");
-            if(NULL == (fp = popen("service network-manager restart", "r"))){
-                perror("popen error!!");
-                return -1;
-            }
+            system("service network-manager restart");
         }
         sleep(60);
         memset(ip_addr, 0, 100);
