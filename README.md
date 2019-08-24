@@ -32,7 +32,7 @@ or
 
 ` `
 
-감사합니다.
+### 감사합니다.
 
 
 
@@ -64,5 +64,5 @@ or
 
 `$ sudo ./a.out &`
 
-Thank you!!
+### Thank you!!
 
