@@ -5,6 +5,5 @@
 우분투에서 네트워크를 재시작 해주는 프로그램 입니다.
 
 
-```$ git clone https://github.com/dnfwlq8054/Ubuntu_netwrokRestart.git```
+"`$ git clone https://github.com/dnfwlq8054/Ubuntu_netwrokRestart.git`"
 
-``` This is a normal paragraph: This is a code block. end code block. ```
