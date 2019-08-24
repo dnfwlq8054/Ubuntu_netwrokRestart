@@ -1,6 +1,6 @@
 # Ubuntu_netwrokRestart
 
-##안녕하세요.
+## 안녕하세요.
 
 우분투에서 네트워크를 재시작 해주는 프로그램 입니다.
 
@@ -30,7 +30,7 @@ or
 
 
 
-##Hi.
+## Hi.
 
 This program speeds up the network on Ubuntu.
 
