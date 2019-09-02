@@ -7,22 +7,22 @@
 다운로드 방법은 아래와 같습니다.
 
 
-` `
+
 
 
 `$ git clone https://github.com/dnfwlq8054/Ubuntu_netwrokRestart.git`
 
 
-` `
+
 
 다운로드 후 컴파일 해주고 실행해주면 됩니다.
 
 
-` `
+
 
 `$ gcc ubuntu_netReset.c`
 
-` `
+
 
 `$ sudo ./a.out`
 
@@ -30,7 +30,7 @@ or
 
 `$ sudo ./a.out &`
 
-` `
+
 
 ### 감사합니다.
 
@@ -46,19 +46,19 @@ Ubuntu checks the network status every 60 seconds and restarts the network if di
 
 There is a download method.
 
-` `
+
 
 `$ git clone https://github.com/dnfwlq8054/Ubuntu_netwrokRestart.git`
 
-` `
+
 
 After downloading, compile and run.
 
-` `
+
 
 `$ gcc ubuntu_netReset.c`
 
-` `
+
 
 `$ sudo ./a.out`
 
