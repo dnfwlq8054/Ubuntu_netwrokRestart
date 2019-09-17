@@ -41,7 +41,7 @@ int main(){
         }
 
 
-        while(fgets(buff, BUFF_SIZE, fp)){
+        while(fgets(buff, BUFF_SIZE, fp)){		//gateway address get it
             ptr = strtok(buff, " ");
     
             if(ip_addr[0] != 'x')
